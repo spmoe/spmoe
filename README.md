@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm sasuke - web3 ninja</h1>
 <p align="left"> <a href="https://twitter.com/sasuke61_sol" target="blank"><img src="https://img.shields.io/twitter/follow/sasuke61_sol?logo=twitter&style=for-the-badge" alt="sasuke61_sol" /></a> </p>
 
-#### Website: [https://www.sasuke.dev](https://www.sasuke.dev)
+#### Website: [https://www.spmoe.xyz](https://www.spmoe.xyz)
 
 #### Connect with me
 <p align="left">
