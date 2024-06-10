@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm sasuke - web3 ninja</h1>
+<h1 align="left">Hi 👋, I'm spmoe(sasuke) - web3 ninja</h1>
 
 ![pump.fun fork, pump.fun bundling, meme coin launchpad](./git/pump-fun.png)
 ![web3 game development, jackpot, crash, minesweeper, tower, dice](./git/web3-games.png)
