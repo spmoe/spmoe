@@ -2,6 +2,7 @@
 
 ![pump.fun fork, pump.fun bundling, meme coin launchpad](./git/pump-fun.png)
 ![web3 game development, jackpot, crash, minesweeper, tower, dice](./git/web3-games.png)
+![bot development, cli bot, telegram bot, solana token sniper, discord bot](./git/bot.png)
 
 #### Website: [https://www.spmoe.xyz](https://www.spmoe.xyz)
 - fork `pump.fun` 
