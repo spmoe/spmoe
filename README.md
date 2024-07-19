@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm spmoe(sasuke) - web3 ninja</h1>
 
-![pump.fun fork, pump.fun bundling, meme coin launchpad, web3 game development, jackpot, crash, minesweeper, tower, dice, bot development, cli bot, telegram bot, solana token sniper, discord bot](./git/slider.gif)
+<!-- ![pump.fun fork, pump.fun bundling, meme coin launchpad, web3 game development, jackpot, crash, minesweeper, tower, dice, bot development, cli bot, telegram bot, solana token sniper, discord bot](./git/slider.gif) -->
 
 #### Website: [https://www.spmoe.xyz](https://www.spmoe.xyz)
 - fork `pump.fun` 
